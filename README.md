@@ -11,12 +11,12 @@ The College does not claim ownership of, or any rights to non-assesed work produ
 
 This repository contains several template licences, which are explained later on. The README includes general advice and best practices to avoid allegations of Academic Misconduct. It is important to note that information contained within this repository is unofficial and provides no guarantee against and should not be used as a defence for allegations of Academic Misconduct. 
 
-## Best Practice
-- Do not publish assesed work unless this has been agreed with the department. 
-- If publishing work connected to, but not directly associated with, assesments you should only publish after grades for that asssesment have been returned.
-- Ensure you do not publish code skeletons, documentation or any material provided directly to you by the course leader. This remains the Copyright of the College and a licence to reproduce it should be sort if you wish to do so. 
-- Always publish work with a specific licence. Although no licence technically indicates no rights to the reader it is better to state this explicitly for the avoidence of doubt. 
-- If you are publishing "solutions" to an assignment or labsheet, it is adviseable to include the below [disclaimer](#disclaimer).
+## Best Practices
+- Do not publish assessed work unless this has been agreed with the department. 
+- If publishing work connected to, but not directly associated with, assessments you should only publish after grades for that assessment have been returned.
+- Ensure you do not publish code skeletons, documentation or any material provided directly to you by the course leader. This remains the Copyright of the College and a licence to reproduce it should be sought if you wish to do so. 
+- Always publish work with a specific licence. Although no licence technically indicates no rights to the reader it is better to state this explicitly for the avoidance of doubt. 
+- If you are publishing "solutions" to an assignment or lab-sheet, it is advisable to include the below [disclaimer](#disclaimer).
 - When publishing group work, you must have the consent of all parties and they should be named on the licence. 
 - If you use Git remotes as a back up tool, ensure you understand whether the remote is set as public or private. 
 
