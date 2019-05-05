@@ -7,16 +7,16 @@ This repository is designed to assist students of Royal Holloway Computer Scienc
 Students put a lot of work into designing creative assignment submissions and producing interesting and original work. When looking to further their academic career or apply for jobs, it is important they are able to showcase the work they have done. 
 Equally, it is important for the Department and College to protect the integrity of the degree and to ensure a level playing field for all. 
 
-The College does not claim ownership of, or any rights to work product produced by the student as part of their degree. The Student retains full ownership and rights to their work. 
+The College does not claim ownership of, or any rights to work produced by the student as part of their degree. The Student retains full ownership and rights to their work. 
 
-This repository contains several template licences, which are explained later on. The README includes general advice and best practices to avoid allegations of Academic Misconduct. It is important to note that information contained within this repository is unofficial and provides no gurantee against and should not be used as a defence for allegations of Academic Misconduct. 
+This repository contains several template licences, which are explained later on. The README includes general advice and best practices to avoid allegations of Academic Misconduct. It is important to note that information contained within this repository is unofficial and provides no guarantee against and should not be used as a defence for allegations of Academic Misconduct. 
 
 ## Best Practice
-- Do not publish assesed work before a submission deadline. You should only publish assesed work after grades have been returned.
-- Ensure you do not publish code skeletons, documentation or any material provided directly to you by the course leader. This remains the Copyright of the College and a licence to reproduce it should be sort if you wish to do so. 
-- Always publish work with a specific licence. Although no licence technically indicates no rights to the reader it is better to state this explicitly for the avoidence of doubt. 
-- If you are publishing "solutions" to an assignment or labsheet, it is adviseable to include the below [disclaimer](#disclaimer).
-- When publishing group work, you must have the conset of all parties and they should be named on the licence. 
+- Do not publish assessed work before a submission deadline. You should only publish assessed work after grades have been returned.
+- Ensure you do not publish code skeletons, documentation or any material provided directly to you by the course leader. This remains the Copyright of the College and a licence to reproduce it should be obtained if you wish to do so. 
+- Always publish work with a specific licence. Although no licence technically indicates no rights to the reader it is better to state this explicitly for the avoidance of doubt. 
+- If you are publishing "solutions" to an assignment or lab sheet, it is advisable to include the below [disclaimer](#disclaimer).
+- When publishing group work, you must have the consent of all parties and they should be named on the licence. 
 - If you use Git remotes as a back up tool, ensure you understand whether the remote is set as public or private. 
 
 ## Disclaimer
@@ -28,7 +28,7 @@ The Software was produced in conjunction with a degree at Royal Holloway, Univer
 a) obeys the conditions of the licence 
 b) attributes the Copyright Holder and source 
 c) does not misrepresent ownership of The Software
-Submission of work that has been plagerised or otherwise misrepresented is treated as Academic Misconduct. Submissions are routinly checked for this. 
+Submission of work that has been plagiarised or otherwise misrepresented is treated as Academic Misconduct. Submissions are routinely checked for this. 
 ```
 
 ## Licence Templates
