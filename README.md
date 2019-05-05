@@ -17,6 +17,7 @@ This repository contains several template licences, which are explained later on
 - Always publish work with a specific licence. Although no licence technically indicates no rights to the reader it is better to state this explicitly for the avoidence of doubt. 
 - If you are publishing "solutions" to an assignment or labsheet, it is adviseable to include the below [disclaimer](#disclaimer).
 - When publishing group work, you must have the conset of all parties and they should be named on the licence. 
+- If you use Git remotes as a back up tool, ensure you understand whether the remote is set as public or private. 
 
 ## Disclaimer
 
