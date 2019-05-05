@@ -7,7 +7,7 @@ This repository is designed to assist students of Royal Holloway Computer Scienc
 Students put a lot of work into designing creative assignment submissions and producing interesting and original work. When looking to further their academic career or apply for jobs, it is important they are able to showcase the work they have done. 
 Equally, it is important for the Department and College to protect the integrity of the degree and to ensure a level playing field for all. 
 
-The College does not claim ownership of, or any rights to work produced by the student as part of their degree. The Student retains full ownership and rights to their work. 
+The College does not claim ownership of, or any rights to work products produced by the student as part of their degree. The Student retains full ownership and rights to their work. 
 
 This repository contains several template licences, which are explained later on. The README includes general advice and best practices to avoid allegations of Academic Misconduct. It is important to note that information contained within this repository is unofficial and provides no guarantee against and should not be used as a defence for allegations of Academic Misconduct. 
 
